@@ -1,1 +1,1 @@
-rootProject.name = "tdd-java"
+rootProject.name = "tdd-java-part1"
